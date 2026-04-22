@@ -8,12 +8,12 @@ let buttonLists = [
   {
     img: './images/blog.svg',
     title: 'Blog',
-    link: 'https://fuuyh.github.io/blog'
+    link: 'https://fuyhcn.github.io/blog'
   },
   {
     img: './images/case.svg', 
     title: 'About',
-    link: 'https://fuuyh.github.io/some-case'
+    link: 'https://fuyhcn.github.io/some-case'
   },
   {
     img: './images/codepen.svg',
